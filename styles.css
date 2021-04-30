@@ -89,6 +89,7 @@ footer{
 @media screen and (max-width: 490px) {
     main {
         width: 90%;
+        margin: 7em auto;
     }
     nav {
         width: 40%;
@@ -101,6 +102,7 @@ footer{
     }
     .footer_bottom{
         flex-direction: column;
+        margin-top: 10em;
     }
     .left , .right {
         margin: auto;
